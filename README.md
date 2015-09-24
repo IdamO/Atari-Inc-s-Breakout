@@ -6,5 +6,5 @@ C-Style implementation of the classic game, Breakout, using Stanford's Portable 
 DISCLAIMER: Requires Stanford's Portable Library (SPL) to work.
 
 Resources: 
-[SPL Documentation](http://cs.stanford.edu/people/eroberts/papers/ITiCSE-2013/PortableGraphicsLibrary.pdf)
-[Download SPL](http://stanford.edu/~stepp/cppdoc/)
+* [SPL Documentation](http://cs.stanford.edu/people/eroberts/papers/ITiCSE-2013/PortableGraphicsLibrary.pdf)
+* [Download SPL](http://stanford.edu/~stepp/cppdoc/)
